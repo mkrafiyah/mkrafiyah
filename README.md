@@ -1,27 +1,27 @@
-![banner!](banner.png)
+![banner!](./assets/banner.png)
 
-### About Me ✍️ 
+### <ins>About Me</ins> ✍️ 
 ### I am Mahbuba Khanom
-                Currently Learning Web Development 😎
+##### Currently Learning Web Development 😎
 
   I had always desired for learning web development. As a result i started learning and practising react from the past few months.I am also learning MongoDB as i want to see me as a MERN stack developer in future.
 
    * 🌱 I’m currently learning html, CSS, React, Js, Tailwind, MongoDB
    * 💬 Ask me about html, CSS, React, Tailwind
    * 📫 How to reach me: rafiyah.mahbub@gmail.com
-    
+     
 
-<!--
-**mkrafiyah/mkrafiyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <ins>My Skills</ins>  ✍️ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning html, CSS, React, Js, Tailwind, MongoDB
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about html, CSS, React, Js, Tailwind
-- 📫 How to reach me: rafiyah.mahbub@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+[![My Skills](https://skillicons.dev/icons?i=react,css,js,firebase,html,tailwind,mongodb,figma)](https://skillicons.dev)
+
+
+### <ins>Github Stats</ins>  ✍️ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkrafiyah&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkrafiyah&theme=github_dark&utcOffset=8)
+
+
+### <ins>My Projects</ins>  ✍️ 
+
