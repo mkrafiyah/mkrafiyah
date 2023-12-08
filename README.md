@@ -1,5 +1,8 @@
+![banner!](banner.png)
+
+### About Me ✍️ 
 ### I am Mahbuba Khanom
-  Currently Learning Web Development 👋
+                Currently Learning Web Development 😎
 
   I had always desired for learning web development. As a result i started learning and practising react from the past few months.I am also learning MongoDB as i want to see me as a MERN stack developer in future.
 
