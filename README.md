@@ -32,13 +32,13 @@
 
 #### <ins> Restaurant Management Projects</ins> 🔭 
 - Website Link: https://restaurent-management-99c21.web.app/
-- Client side link: https://github.com/mkrafiyah/foodie-client
+- Client side link: https://github.com/mkrafiyah/restaurent-management-project
 - Server side link: https://github.com/mkrafiyah/foodie-server
 
-#### <ins> Restaurant Management Projects</ins> 🔭 
-- Website Link: https://restaurent-management-99c21.web.app/
-- Client side link: https://github.com/mkrafiyah/foodie-client
-- Server side link: https://github.com/mkrafiyah/foodie-server
+#### <ins> Emarat Projects</ins> 🔭 
+- Website Link: https://emarat-9f35c.web.app
+- Client side link: https://github.com/mkrafiyah/emarat-client
+- Server side link: https://github.com/mkrafiyah/emarat-server
 
 ### <ins>Find me</ins>  ✍️ 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mkrafiyah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mkrafiyah/)  
